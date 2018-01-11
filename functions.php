@@ -1,6 +1,5 @@
 <?php
 
-/*testing git hub!!! */
 //Support Featured Images
 add_theme_support( 'post-thumbnails' );
 
